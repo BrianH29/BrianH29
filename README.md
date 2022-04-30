@@ -1,6 +1,7 @@
-### Hi, I'm Brian
+<h1>Hey, Thank you for visiting</h1>
+<span>I'm Brian, frontend developer from South Korea </span>
 
-<h2>My Stack</h2>
+<h3>What I code with</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=fff)
@@ -10,6 +11,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=ffffff)
+
+<h3>Contact</h3>
+<span>📨 brianhwang29@gmail.com</span>
 
 
 <!--
